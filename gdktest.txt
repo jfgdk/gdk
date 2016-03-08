@@ -2,3 +2,5 @@ $ mkdir learngit
 $ cd learngit
 $ pwd
 /Users/michael/learngit
+Git is a distributed version control system.
+Git is free software.
